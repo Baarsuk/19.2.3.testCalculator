@@ -1,3 +1,5 @@
+import pytest
+
 from app.calc import Calculator
 
 class TestCalculator:
